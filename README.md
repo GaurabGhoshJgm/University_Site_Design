@@ -1,5 +1,5 @@
 <h1 align="center">
-🎓 Eduford.
+🎓 MIDNAPORE COLLEGE(AUTONOMOUS).
 </h1>
 
 <h4 align="center">
