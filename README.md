@@ -3,7 +3,6 @@
 </h1>
 
 <h4 align="center">
- Design a website for a fictional university.
 </h4>
 
 ![screenshot-guto1657-github-io-Eduford-1615842037369](https://midnaporecollege.ac.in/wp-content/uploads/2022/05/college-main-gate-2-1.jpg)
